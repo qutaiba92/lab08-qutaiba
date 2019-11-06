@@ -1,0 +1,44 @@
+html{
+    background-color: #FFC5B0;
+    text-align: center;
+    }
+
+header{
+    color:black;
+    text-align: center;
+    font-size: 25px;
+    }
+    
+
+nav{
+    text-align: center;
+}
+nav ul li{
+    display: inline-block; 
+    margin: 20px;
+}
+ a{
+   color:whitesmoke;
+   font-size: 20px;
+  }
+  img{
+      text-align: center;
+  }
+#image01 {
+    width: 500px;
+
+    }
+#image02 {
+    width: 500px;
+ }
+.centralized{
+   text-align: center; 
+   color: antiquewhite;
+}
+footer{
+    color: blue;
+    text-align: center;
+}
+#footer01{
+    color: blue;
+}
